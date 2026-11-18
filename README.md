@@ -1,3 +1,6 @@
+## 🔗 Links Úteis
+* **Acesse o projeto rodando:** [Ver Aplicação To-Do List](http://127.0.0.1:5000) *(ou cole aqui o link do seu vídeo no YouTube/Drive se preferir)*
+
 ## 📋 Modelagem e Especificação do Sistema (UML)
 
 ### 1. Diagrama de Classes
